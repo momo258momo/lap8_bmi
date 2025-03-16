@@ -12,5 +12,5 @@ Dự án "BMI Calculator" là ứng dụng Flutter tính toán chỉ số BMI t�
 ## Tài nguyên
 
 - Ảnh demo:
-  ![Ảnh demo 1](assets/image/demo.png)
   ![Ảnh demo 2](assets/image/image.png)
+    ![Ảnh demo 1](assets/image/demo.png)
